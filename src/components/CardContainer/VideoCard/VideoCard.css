@@ -1,0 +1,15 @@
+.video_card {
+    max-height: 110px;
+    cursor: pointer;
+    border: none;
+}
+
+.video_card_col1 {
+    text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 760px) {
+    .video_card {
+        max-height: 220px;
+    }
+  }

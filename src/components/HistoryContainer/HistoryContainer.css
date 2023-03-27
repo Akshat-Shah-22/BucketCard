@@ -1,0 +1,12 @@
+.history_card {
+    height: 150px;
+    border: none;
+}
+
+.history_card_col1, .history_card_col2, .history_card_col3 {
+    text-overflow: ellipsis;
+}
+
+.history_card_col2 {
+    color: rgb(79, 112, 245);
+}

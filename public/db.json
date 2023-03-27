@@ -1,0 +1,64 @@
+{
+  "buckets": [
+    {
+      "name": "Songs",
+      "id": 1
+    },
+    {
+      "name": "Entertainment",
+      "id": 2
+    },
+    {
+      "name": "Educational",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "bucketId": 1,
+      "title": "Melody",
+      "link": "https://youtu.be/TjX7Pns1M3w",
+      "id": 1
+    },
+    {
+      "bucketId": 2,
+      "title": "Disco",
+      "link": "https://www.youtube.com/embed/_z8UyrLlM7k",
+      "isChecked": false,
+      "id": 2
+    },
+    {
+      "bucketId": 2,
+      "title": "Movie",
+      "link": "https://www.youtube.com/embed/_z8UyrLlM7k",
+      "isChecked": false,
+      "id": 3
+    },
+    {
+      "bucketId": 1,
+      "title": "System Design",
+      "link": "https://youtu.be/i53Gi_K3o7I",
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "url": "https://www.youtube.com/embed/_z8UyrLlM7k",
+      "title": "Disco",
+      "timestamp": 1679886282138,
+      "id": 1
+    },
+    {
+      "url": "https://www.youtube.com/embed/_z8UyrLlM7k",
+      "title": "Movie",
+      "timestamp": 1679886290094,
+      "id": 2
+    },
+    {
+      "url": "https://youtu.be/i53Gi_K3o7I",
+      "title": "System Design",
+      "timestamp": 1679886296669,
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.bucket_card {
+    max-height: 80px;
+    border: none;
+}
+
+.bucket_card_col1 {
+    text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 760px) {
+    .bucket_card {
+        max-height: 110px;
+    }
+  }
