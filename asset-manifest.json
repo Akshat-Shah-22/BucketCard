@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Akshat-Shah-22/BucketCard.git/static/css/main.d1f1355e.css",
-    "main.js": "/Akshat-Shah-22/BucketCard.git/static/js/main.120dbbd0.js",
-    "index.html": "/Akshat-Shah-22/BucketCard.git/index.html",
-    "main.d1f1355e.css.map": "/Akshat-Shah-22/BucketCard.git/static/css/main.d1f1355e.css.map",
-    "main.120dbbd0.js.map": "/Akshat-Shah-22/BucketCard.git/static/js/main.120dbbd0.js.map"
+    "main.css": "/BucketCard/static/css/main.d1f1355e.css",
+    "main.js": "/BucketCard/static/js/main.120dbbd0.js",
+    "index.html": "/BucketCard/index.html",
+    "main.d1f1355e.css.map": "/BucketCard/static/css/main.d1f1355e.css.map",
+    "main.120dbbd0.js.map": "/BucketCard/static/js/main.120dbbd0.js.map"
   },
   "entrypoints": [
     "static/css/main.d1f1355e.css",
